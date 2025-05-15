@@ -3,5 +3,7 @@ Violog is a violation management tool developed for school administrators to eff
 
 # What I Learned
 I gained knowledge on linking code with the use of parameters.
+
 I learned how to track keys with existing violations to prevent duplicate entries.
+
 I became familiar with displaying data from multiple database tables within a single table view.
